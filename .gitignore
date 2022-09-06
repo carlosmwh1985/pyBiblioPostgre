@@ -29,6 +29,7 @@ old_data_sql/
 old_db/
 data/old/
 dataOldDb/
+dataOldDB/
 csvCatalog/
 csvClassification/
 Biblioteca_Test_JDBC.odb
