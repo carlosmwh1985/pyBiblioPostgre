@@ -7,7 +7,7 @@ __pycache__/
 # DB-Related files and folders
 old_data_sql/
 old_db/
-old/
+*/old/
 dataOldDb/
 csvCatalog/
 csvClassification/
