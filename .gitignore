@@ -36,6 +36,7 @@ BibliotecaPersonal.mdb
 mysql-pwd
 output.txt
 all_books.csv
+allBooks.csvs
 
 # String connections! It is a no-no!
 *.ini
