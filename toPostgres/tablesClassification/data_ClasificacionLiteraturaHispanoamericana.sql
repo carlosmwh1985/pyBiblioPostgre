@@ -1,0 +1,18 @@
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('A','Argentina');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('B','Bolivia');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('C','Colombia');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('CR','Costa Rica');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('Cu','Cuba');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('Ch','Chile');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('E','Ecuador');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('ES','El Salvador');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('G','Guatemala');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('Ho','Honduras');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('M','México');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('N','Nicaragua');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('P','Panamá');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('Pa','Paraguay');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('Pe','Perú');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('PR','Puerto Rico');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('U','Uruguay');
+INSERT INTO tblLiteraturaHispanoamericana_860 (id, pais) VALUES ('V','Venezuela');

@@ -1,0 +1,305 @@
+id,titulo,autor,editorial,pags,isbn,ejemplares,leido,num
+M863 F82m,"Muerte de Artemio Cruz, La","Fuentes, Carlos","Salvat Editores, S.A.",214,-,1,f,082A
+E863 I11c,"Chulla Romero y Florez, El","Icaza, Jorge","Salvat Editores, S.A.",180,-,1,f,040B
+863 B17z,Zalacaín el Aventurero,"Baroja, Pío","Salvat Editores, S.A.",166,-,1,f,039B
+900 C31h,"Humanismo, El","Chastel, André","Salvat Editores, S.A.",190,-,1,f,038B
+843 D18t,Tartarín de Tarascón; tartarín en los Alpes,"Daudet, Alphonse","Salvat Editores, S.A.",214,-,1,f,037B
+813 J15v,"Vuelta de Tuerca, La","James, Henry","Salvat Editores, S.A.",158,-,1,f,036B
+853 B61d,"Decamerón, El",Boccaccio,"Salvat Editores, S.A.",182,-,1,f,031B
+135 F72s,"Sueños, Los","Freud, Sigmund","Salvat Editores, S.A.",166,-,1,f,030B
+813 T91h,Huckleberry Finn,"Twain, Mark","Salvat Editores, S.A.",220,-,1,f,029B
+853 P71c,Crónica Familiar,"Pratolini, Vasco","Salvat Editores, S.A.",148,-,1,f,028B
+863 P27m,Miau,"Pérez Galdós, Benito","Salvat Editores, S.A.",198,-,1,f,027B
+709 S13r,"Rococo y su Época, El","Scönberger, A.","Salvat Editores, S.A.",158,-,1,f,026B
+895.3 S46v,"Verdadera Historia de A Q, La","Sin, Lu","Salvat Editores, S.A.",198,-,1,f,025B
+843 Z65p,Una Página de Amor,"Zola, Émile","Salvat Editores, S.A.",238,-,1,f,023B
+504 R68c,Ciencia Falsa y Falsas Ciencias,"Rostand, Jean","Salvat Editores, S.A.",180,-,1,f,022B
+863 S16v,"Vida Nueva de Pedrito de Andia, La","Sánchez Mazas, Rafael","Salvat Editores, S.A.",214,-,1,f,021B
+813 M25 b,Billy Budd Marinero,"Melville, Herman","Salvat Editores, S.A.",156,-,1,f,020B
+863 S26e,Epitalamio del Prieto Trinidad,"Sender, Ramón José","Salvat Editores, S.A.",216,-,1,f,059B
+885 P51d,Diálogos Socráticos,Platón,"Salvat Editores, S.A.",148,-,1,f,058B
+891.3,Hadzhi-Murat,"Tolstoi, León","Salvat Editores, S.A.",152,-,1,f,057B
+Cu861 M17a,Antología,"Martí, José","Salvat Editores, S.A.",172,-,1,f,056B
+861 B27p,Poesía Medieval Española,"Berceo, Gonzalo de…","Salvat Editores, S.A.",204,-,1,f,055B
+863 P17m,"Morriña; Última Fada, La","Pardo Bazán, Emilia","Salvat Editores, S.A.",158,-,1,f,054B
+980 C65c,Crónicas de Indias,"Colón, Cristobal…","Salvat Editores, S.A.",212,-,1,f,053B
+862 C27e,Entremeses,"Cervantes Saavedra, Miguel de","Salvat Editores, S.A.",164,-,1,f,052B
+709 C18a,Arte Precolombino y Colonial de la América Latina,"Castedo, Leopoldo","Salvat Editores, S.A.",172,-,1,f,050B
+843 B15g,"Goriot, El Padre","Balzac, Honoré de","Salvat Editores, S.A.",206,-,1,f,049B
+574 D17v,Viaje de una Naturalista,"Darwin, Charles R.","Salvat Editores, S.A.",212,-,1,f,048B
+853 P19b,"Bello Verano, El","Pavese, Cesare","Salvat Editores, S.A.",148,-,1,f,046B
+829.3 S16n,"Novia de Lammermoor, La","Scott, Walter","Salvat Editores, S.A.",200,-,1,f,045B
+875 S26c,Consolación a mi madre Helvia - Cartas a Lucilio - Sobre los Beneficios,"Séneca, Lucio Anneo","Salvat Editores, S.A.",158,-,1,f,044B
+813 M11b,"Balada del Café Triste, La - Reflejos en un Ojo Dorado","McCullers, Carson","Salvat Editores, S.A.",172,-,1,f,043B
+Pe863 V16c,"Cachorros, Los - Desafío, El - Día Domingo","Vargas Llosa, Mario","Salvat Editores, S.A.",148,-,1,f,058A
+111 M17t,Tres Visiones de la Vida Humana,"Marías, Julián","Salvat Editores, S.A.",164,-,1,f,042B
+863 H15m,Manuela,"Halcón, Manuel","Salvat Editores, S.A.",182,-,1,f,041B
+861 M17a,Antología de la Poesía Romántica Española,"Marco, Joaquín","Salvat Editores, S.A.",188,-,1,f,095B
+843 P72m,Manon Lescaut,"Prévost, Abate","Salvat Editores, S.A.",142,-,1,f,094B
+829.3 J69d,Dublineses,"Joyce, James","Salvat Editores, S.A.",190,-,1,f,093B
+863 M18p,Primera Memoria,"Matute, Ana María","Salvat Editores, S.A.",158,-,1,f,092B
+108 F27c,"Crisis Humanas, Las","Ferrater Mora, José","Salvat Editores, S.A.",172,-,1,f,091B
+909 S15c,Conciencia del Subdesarrollo,"Sampedro, José Luis","Salvat Editores, S.A.",174,-,1,f,090B
+823 B76j2,Jane Eyre II,"Brontë, Charlotte","Salvat Editores, S.A.",214,-,1,f,089B
+823 B76j1,Jane Eyre,"Brontë, Charlotte","Salvat Editores, S.A.",212,-,1,f,088B
+070 T17p,Panorama del Periodismo Hispanoamericano,"Tarín-Iglesias, José","Salvat Editores, S.A.",220,-,1,f,086B
+823 W45c,Cuentos,"Wilde, Oscar","Salvat Editores, S.A.",140,-,1,f,085B
+863 G65g,Greguerías (Selección),"Gómez de la Serna, Ramón","Salvat Editores, S.A.",176,-,1,f,084B
+860 G17u,Unamuno y Ortega,"Garagorri, Paulino","Salvat Editores, S.A.",142,-,1,f,083B
+709 T17a,"Arte Griego y Romano, El","Tarradell, Miguel","Salvat Editores, S.A.",140,-,1,f,082B
+862 M65b,"Burlador de Sevilla, El - Condenado por Desconfiado, El","Molina, Tirso de","Salvat Editores, S.A.",208,-,1,f,081B
+863.9 V23u,"Utopía Incaica, La","Vega, Garcilaso de la","Salvat Editores, S.A.",168,-,1,f,080B
+863 V45m,"Muerte de una Dama, La","Villalonga, Lorenzo","Salvat Editores, S.A.",134,-,1,f,079B
+888 P58v,Vidas Paralelas,Plutarco,"Salvat Editores, S.A.",200,-,1,f,078B
+891.3 G63t,Taras Bulba,"Gógol, Nikolai Vasílievich","Salvat Editores, S.A.",142,-,1,f,077B
+823 C17m,Mister Johnson,"Cary, Joyce","Salvat Editores, S.A.",214,-,1,f,076B
+833 E41c,Cuentos del Romanticismo Alemán,"Eichendorff, Joseph Baron von…","Salvat Editores, S.A.",168,-,1,f,073B
+891.3 N11p,Pnin,"Nabokov, Vladimir","Salvat Editores, S.A.",152,-,1,f,072B
+863 C11g,"Gaviota, La","Caballero, Fernán","Salvat Editores, S.A.",230,-,1,f,071B
+861 C78g,Grandes Poetas de Hispanoamérica,"Cruz, Sor Juana Inés","Salvat Editores, S.A.",200,-,1,f,070B
+813 L66l,"Llamado del Bosque y Otros Cuentos, El","London, jack","Salvat Editores, S.A.",158,-,1,f,069B
+863 A81v,Vida y Obra de Luis Álvarez Petreña,"Aub, max","Salvat Editores, S.A.",216,-,1,f,068B
+899.93L19p,Paraíso Reclamado,"Laxness, Halldor","Salvat Editores, S.A.",218,-,1,f,067B
+833 B65t,"Tren Llegó Puntual, El","Böll, Heinrich","Salvat Editores, S.A.",130,-,1,f,065B
+813 H19l,"Letra Escarlata, La","Hawthorne, Nathaniel","Salvat Editores, S.A.",206,-,1,f,064B
+863 G17s,Su Único Hijo,"García-Alas Ureña, Leopoldo Enrique (Clarín)","Salvat Editores, S.A.",220,-,1,f,063B
+843 M18 b,Bola de Sebo y Otros Relatos,"Maupassant, Guy de","Salvat Editores, S.A.",176,-,1,f,062B
+701 O54i,"Impresionistas, Los","Olivar, Marcial","Salvat Editores, S.A.",142,-,1,f,061B
+C865 V15p,Páginas Inmortales de Guillermo Valencia,"Valencia, Guillermo",Instituto Colombiano de Cultura,168,-,1,f,-01C
+C868 C67f,"Fiestas de Toros… Y Otras Fiestas, Las (Cuadros de Costumbres)","Cordovez Moure, José María",Instituto Colombiano de Cultura,148,-,1,f,001C
+782 A11c,Coplerío Colombiano,"Abadía M., Guillermo",Instituto Colombiano de Cultura,128,-,1,f,002C
+C862 V17c,"Convulsiones, Las","Vargas Tejada, Luis",Instituto Colombiano de Cultura,88,-,1,f,003C
+E863 C81c,Cuentos Ecuatorianos I,"Cuadra, José de la",Instituto Colombiano de Cultura,152,-,1,f,004C
+C863 A59p,"Patria y los Días, La. Antología de Crónicas I","Alzate Avendaño, Gilberto",Instituto Colombiano de Cultura,152,-,1,f,005C
+863 C27c,"Celoso Extremeño, El","Cervantes Saavedra, Miguel de",Instituto Colombiano de Cultura,80,-,1,f,006C
+986.1 A16d,Descubridor y Fundador,"Acosta de Samper, Soledad",Instituto Colombiano de Cultura,104,-,1,f,007C
+891.3 L47c,Capitanes Intrépidos,"Kipling, Rudyard",Instituto Colombiano de Cultura,216,-,1,f,008C
+986.1 V15p,Políticos en la Intimidad,"Vallejo, Alejandro",Instituto Colombiano de Cultura,108,-,1,f,009C
+C863 B66l,Lucero - Cuento de Navidad y Otros Cuentos Infantiles,"Bonilla Naar, Alfonso…",Instituto Colombiano de Cultura,104,-,1,f,010C
+C863 S45p,"Par de Pichones, Un","Silvestre, Luis Segundo",Instituto Colombiano de Cultura,140,-,1,f,011C
+862 V23n,"Nuevo mundo Descubierto por Cristobal Colón, El","Vega, Félix Lope de",Instituto Colombiano de Cultura,200,-,1,f,012C
+V863 B51c,Cuentos Venezolanos. Antología I,"Blanco Fombona, Rufino",Instituto Colombiano de Cultura,200,,1,f,013C
+C861 J17n,Nueva Poesía Colombiana. Antología,"Jaramillo Escobar, Jaime",Instituto Colombiano de Cultura,100,-,1,f,014C
+C861 A71p,"Patria y los Días, La. Antología de Crónicas II","Arciniegas, Germán…",Instituto Colombiano de Cultura,148,-,1,f,015C
+923 S16m,"Mi Vida y Otras Vidas, De. Extractos","Sanín Cano, Baldomero",Instituto Colombiano de Cultura,80,-,1,f,016C
+893 B15b1,"Búsqueda de lo Absoluto I, La","Balzac, Honorato de",Instituto Colombiano de Cultura,148,-,1,f,017C
+C861 P65l,Lección de Poesía. Selección de Poemas para Niños,"Pombo, Rafael",Instituto Colombiano de Cultura,120,-,2,f,019C
+923 M47b1,Bolívar. I - La Forja del Héroe,"Miramón, Alberto",Instituto Colombiano de Cultura,128,-,1,f,020C
+070.43 S16d,"Danza de las horas, La","Calibán, Seud",Instituto Colombiano de Cultura,160,-,1,f,025C
+923 M47b2,Bolívar. II - Prometeo Criollo,"Miramón, Alberto",Instituto Colombiano de Cultura,160,-,1,f,021C
+C861 R64c,Cuadernos de Piedra y Cielo,"Rojas, Jorge…",Instituto Colombiano de Cultura,164,-,1,f,022C
+C862 O86z,"Zar de precios y Otras Obras, El","Osorio, Luis Enrique",Instituto Colombiano de Cultura,168,-,1,f,023C
+P863 A51c,Cuentos Panameños. Antología,"Alba, Manuel María",Instituto Colombiano de Cultura,160,-,1,f,024C
+C863 V15s,7 Cuentistas Jóvenes,"Valencia, Elmo",Instituto Colombiano de Cultura,144,-,1,f,026C
+891.3 G67j,"Jóven Italia, La","Gorki, Máximo",Instituto Colombiano de Cultura,128,-,1,f,027C
+C863 P68h,"Hombres de el Dorado, Los","Posada, Eduardo",Instituto Colombiano de Cultura,128,-,1,f,028C
+843 M19b,Bola de Sebo,"Maupassant, Guy de",Instituto Colombiano de Cultura,84,-,1,f,029C
+C863 C11a,"Almirante Niño y Otros Cuentos, El","Caballero Calderón, Eduardo",Instituto Colombiano de Cultura,128,-,1,f,030C
+891.3 P88 h,"Hija del Capitán, La","Pushkin, Alejandro Sergievich",Editorial Prensa Moderna,88,-,1,f,-
+C861 C11s,Siervo sin Tierra,"Caballero Calderón, Eduardo",-,200,-,1,f,-
+C863 C61d,Derrumbes,"Cocherín, Iván",Al Revés,116,-,1,f,-
+C868 A74e,Escritos,"Arias mejía, Emilio",-,262,-,1,f,-
+808 T13h,"Hombre que Calculaba, El","Tahan, Malba",-,256,-,1,f,-
+986.103 F67h,"Heroínas Olvidadas de la Independencia, Las","Forero, Paulo E.",Instituto Colombiano de Cultura,168,-,1,f,057C
+923 D25h,Hermógenes Maza,"Delgado Nieto, Carlos",Instituto Colombiano de Cultura,192,-,1,f,058C
+986.11 D25h1,Historias y Leyendas de Cartagena I,"Delgado, Camilo S.",Instituto Colombiano de Cultura,88,-,1,f,061C
+C861 B66p,Poemas al Padre. Antología,"Bonilla Naar, Alfonso",Instituto Colombiano de Cultura,88,-,1,f,062C
+C862 Z17t,Teatro,"Zapata Olivella, Manuel…",Instituto Colombiano de Cultura,72,-,1,f,063C
+V863 U85c,Cuentos Venezolanos. Antología II,"Uslar Pietri, Arturo",Instituto Colombiano de Cultura,190,-,1,f,064C
+C861 R28g,"Gran Crónica de Julio Florez, La","Restrepo Duque, Hernán",Instituto Colombiano de Cultura,128,-,1,f,065C
+574 A66c,Curiosidades de los Seres Vivos,Anónimo,Instituto Colombiano de Cultura,88,-,1,f,066C
+C863 A59b,"Boba y el Buda, La","Álvarez Gardeazábal, Gustavo",Instituto Colombiano de Cultura,124,-,1,f,067C
+833 G62s,"Sufrimientos del Joven Werther, Los","Goethe, Johann Wolfgang",Instituto Colombiano de Cultura,216,-,1,f,069C
+839.8136 A62d,Diez Cuentos Famosos,"Andersen, Hans Christian",Instituto Colombiano de Cultura,190,-,1,f,070C
+C863 C27c,"Casa Grande, La","Cepeda Samudio, Álvaro",Instituto Colombiano de Cultura,128,-,1,f,071C
+C861 F56s,Selección de Poemas,"Florez, Julio",Instituto Colombiano de Cultura,104,-,1,f,072C
+P863 A77c,Cuentos Panameños. Antología II,"Arroyo, Justo…",Instituto Colombiano de Cultura,120,-,1,f,074C
+070 M26c,Cruz y Raya,"Mendoza Varela, Eduardo",Instituto Colombiano de Cultura,142,-,1,f,075C
+398.6 P46d,Dichos y Refranes Oídos en Colombia,"Pinzón, Carlos Ernesto…",Instituto Colombiano de Cultura,104,-,1,f,076C
+C863 F82e,"El Doctor Afuera, Con","Félix Fuenmayor, José",Instituto Colombiano de Cultura,136,-,1,f,077C
+923 D25j,José Padilla. Estampa de un Almirante,"Delgado Nieto, Carlos",Instituto Colombiano de Cultura,112,-,1,f,078C
+808 D41c,Cambam Balí,"Díaz Díaz, Oswaldo",Instituto Colombiano de Cultura,102,-,1,f,080C
+986 D25h2,Historias y Leyendas de Cartagena II,"Delgado, Camilo S.",Instituto Colombiano de Cultura,80,-,1,f,081C
+C861 S45a,Antología de Verso y Prosa,"Silva, José Asunción",Instituto Colombiano de Cultura,112,-,1,f,082C
+C862 R29v,"Viejos baúles Empolvados Que Nuestros Padres Nos Prohibieron Abrir, Los","Reyes, Carlos José",Instituto Colombiano de Cultura,96,-,1,f,083C
+986 V15c,Cita de los Aventureros,"Vallejo, Alejandro",Instituto Colombiano de Cultura,152,-,2,f,086C
+843 B15b2,"Búsqueda de lo Absoluto II, La","Balzac, Honorato de",Instituto Colombiano de Cultura,176,-,1,f,018C
+986.102 F67n,Narraciones Históricas Curiosas,"Forero, Manuel José",Instituto Colombiano de Cultura,128,-,1,f,031C
+A861 H27g,"Gaucho Martín Fierro, El","Hernández, José",Instituto Colombiano de Cultura,112,-,1,f,032C
+B869.3 A66c,Cuentos Brasileños. Selección,"Assis, Machado de",Instituto Colombiano de Cultura,168,-,1,f,034C
+986.102 M66e,Estampas Españolas,"Montezuma Hurtado, Alberto",Instituto Colombiano de Cultura,136,-,1,f,035C
+843 P76c,Crónicas,"Proust, Marcel",Instituto Colombiano de Cultura,72,-,1,f,037C
+923 M66c1,"Criolla Policarpa Salavarrieta I, La","Montoya de Umaña, Enriqueta",Instituto Colombiano de Cultura,144,-,1,f,038C
+923 M66c2,"Criolla Policarpa Salavarrieta II, La","Montoya de Umaña, Enriqueta",Instituto Colombiano de Cultura,136,-,1,f,039C
+863 P17a,"Animales Cautivos, Los - Oficios Infantiles, Los","Paredes Pardo, Jaime",Instituto Colombiano de Cultura,80,-,1,f,040C
+C868 P27h,"Haciendas de la Sabana a Vuela Pluma, Las","Perdomo E., José Ignacio",Instituto Colombiano de Cultura,152,-,1,f,041C
+923 J17v,Vida de Porfirio Barba Jacob,"Jaramillo Meza, Juan B.",Instituto Colombiano de Cultura,160,-,1,f,042C
+C862 D41b,"Blondinette - Gaitana, La",Díaz Díaz Oswaldo,Instituto Colombiano de Cultura,152,-,1,f,043C
+Pe863 L67c,Cuentos Peruanos. Antología,"López Albújar, Enrique",Instituto Colombiano de Cultura,176,-,1,f,044C
+923 L69m,Mis Contemporáneos,"Lozano y Lozano, Juan",Instituto Colombiano de Cultura,176,-,1,f,045C
+361.5 M86l,Lucha Contra el Hambre,"Muñoz Quevedo, Josue",Instituto Colombiano de Cultura,104,-,1,f,046C
+863 C27i1,"Ingenioso Hidalgo Don Quijote de la Mancha I, El","Cervantes Saavedra, Miguel de",Instituto Colombiano de Cultura,216,-,1,f,049C
+701 M66q,¿Qué es arte?,"Montaña, Antonio",Instituto Colombiano de Cultura,96,-,1,f,051C
+C861 G72s,Selección de Poemas,"Greiff, León de",Instituto Colombiano de Cultura,128,-,1,f,052C
+822 S31 h,Hamlet,"Shakespeare, William",Instituto Colombiano de Cultura,232,-,1,f,053C
+E863 I11 c,Cuentos Ecuatorianos II,"Icaza, Jorge",Instituto Colombiano de Cultura,128,-,1,f,054C
+917.081 G17r,Rastro de América,"García Peña, Roberto",Instituto Colombiano de Cultura,128,-,1,f,055C
+301.153 C45h,Hombre en el Mundo de la Máquinas,CIMPEC - O.E.A.,Instituto Colombiano de Cultura,96,-,1,f,056C
+C861 H69c,Cantos Intemporales,"Hoyos Parra, Dorian",Al Revés,98,-,1,f,-
+C863 B94o,"Otra Gente, La","Buitrago, Fanny",Instituto Colombiano de Cultura,192,-,1,f,089C
+833 S13g,Guillermo Tell,"Schiller, Federico",Instituto Colombiano de Cultura,112,-,1,f,090C
+C863 C17c,Cuentos Colombianos. Antología,"Carrasquilla, Tomás",Instituto Colombiano de Cultura,200,-,1,f,091C
+808 C17c,Cantos a Bolívar. Antología,"Carranza, Eduardo",Instituto Colombiano de Cultura,208,-,1,f,092C
+C862 L25i,"Ifigenia - Aventura de Don Melón y Doña Endrina, La","Lemaitre, Eduardo",Instituto Colombiano de Cultura,148,-,1,f,093C
+869.3 A55c,Cuentos Portugueses. Antología,"Almeida, Viana de",Instituto Colombiano de Cultura,144,-,1,f,094C
+C868 A71t2,Transparencias de Colombia II,"Arciniegas, Germán",Instituto Colombiano de Cultura,128,-,1,f,095C
+C863 P46q,Quiriley,"Piñeros Corpas, Joaquín",Instituto Colombiano de Cultura,72,-,1,f,097C
+925 B18c,Copérnico,"Bateman, Alfredo D.",Instituto Colombiano de Cultura,136,-,1,f,098C
+C863 T78d,"Día Que terminó el Verano y Otros Cuentos, El","Truque, Carlos Arturo",Instituto Colombiano de Cultura,152,-,1,f,099C
+002 A66t,También Usted Puede Hacerlo,Anónimo,"Salvat Editores, S.A.",140,-,1,f,038A
+813 B25m,"Memorias de Mosby y Otros Relatos, Las","Bellow, Saul","Salvat Editores, S.A.",182,-,1,f,060B
+523 R65s,Secretos del Cosmos,"Roman, Colin A.","Salvat Editores, S.A.",188,-,1,t,002A
+823 S82i,"Isla del Tesoro, La","Stevenon, Robert Louis","Salvat Editores, S.A.",190,-,1,t,021A
+574 P46m,"Mente Humana, La","Pinillos, Jose Luis","Salvat Editores, S.A.",182,-,1,t,024A
+001 M47v,Visado Para el Futuro,"Miravitlles, Luis","Salvat Editores, S.A.",188,-,1,t,028A
+813 C51o,"Odisea Espacial 2001, Una","Clarke, Arthur C.","Salvat Editores, S.A.",190,-,1,t,052A
+900 M15c,"Conquista de la Tierra, La","Maluquer de Motes, Juan","Salvat Editores, S.A.",198,-,1,t,056A
+861 A66p,Poma de Mio Cid,Anónimo,"Salvat Editores, S.A.",156,-,1,t,066A
+508 G17i,Izquierda y Derecha en el Cosmos,"Gardner, Martin","Salvat Editores, S.A.",238,-,1,t,066B
+808 M47s,Sendero Cheyene,"Miranda, N.",Editorial 'Cies' Vigo,126,-,1,f,-
+861 A66 p,Poema de Mío Cid,Anónimo,Alonso - Ediciones,128,-,1,f,-
+C863 B27c,"Cuentos, Relatos y 'Miedo'","Bernal C., Juan de Dios",-,98,-,1,f,-
+C861 C16v,"Voz en la Penumbra, La","Cañaveral, Jesús",Al Revés,100,-,1,f,-
+590.1 C17c,"Conducta de los Animales, La","Carthy, J.D.","Salvat Editores, S.A.",178,-,1,f,013A
+595.7 H83m,"Mundo de los Insectos, El","Hugh Newman, L.","Salvat Editores, S.A.",188,-,1,f,084A
+V863 U85l,"Lanzas Coloradas, Las","Uslar Pietri, Arturo","Salvat Editores, S.A.",174,-,1,f,029A
+923 S16a1,Antonio Nariño I,"Santos Molano, Enrique",Instituto Colombiano de Cultura,104,-,1,f,047C
+923 S16a2,Antonio Nariño II,"Santos Molano, Enrique",Instituto Colombiano de Cultura,128,-,1,f,048C
+460 R68n,Nuestra Lengua en Ambos Mundos,"Rosenblat, Angel","Salvat Editores, S.A.",206,-,1,f,017B
+530 G15b,Biografía de la Física,"Gamow, George","Salvat Editores, S.A.",264,-,1,f,011B
+600 C51h,"Hombre y la Tierra, El","Clark, Ronald W…","Salvat Editores, S.A.",130,-,1,f,002B
+759 G15p,Pintura Contemporanea,"Gallego, Julián","Salvat Editores, S.A.",104,-,1,f,008B
+813 L29e,Este Inmenso Mundo,"Lewis, Sinclair","Salvat Editores, S.A.",166,-,1,f,098B
+822 S31r,Romeo y Julieta,"Shakespeare, William","Salvat Editores, S.A.",156,-,1,f,010B
+823 C31c,Cuentos de Canterbury,"Chaucer, Geoffrey","Salvat Editores, S.A.",190,-,1,f,085A
+823 W66f,Flush,"Woolf, Virginia","Salvat Editores, S.A.",154,-,1,f,099B
+833 M16r,Relato de mi Vida,"Mann, Thomas","Salvat Editores, S.A.",158,-,1,f,098A
+843 D18c,Cartas Desde mi Molino,"Daudet, Alphonse","Salvat Editores, S.A.",172,-,1,f,092A
+843 M18b,Bernardo Quesnay,"Maurois, André","Salvat Editores, S.A.",172,-,1,f,015B
+843 M18p,Pedro y Juan - Bola de Sebo,"Maupassant, Guy de","Salvat Editores, S.A.",188,-,1,f,099A
+843 V27f,"Faro del fin del Mundo, El","Verne, Julio","Salvat Editores, S.A.",174,-,1,f,012B
+853 M67m,"Mascarada, La","Moravia, Alberto","Salvat Editores, S.A.",152,-,1,f,007B
+861 B21a,Antología,"Becquer, Gustavo Adolfo","Salvat Editores, S.A.",180,-,1,f,-00A
+861 G17r,Romancerro Gitano - Yerma,"García Lorca, Federico","Salvat Editores, S.A.",142,-,1,f,004B
+861 R68p,Poesía Española del Siglo de Oro,"Roslaes, Luis","Salvat Editores, S.A.",200,-,1,f,087A
+863 G69d,Duelo en el Paraíso,"Goytisolo, Juan","Salvat Editores, S.A.",214,-,1,f,032B
+862 B82h,Historia de una Escalera - Llegada de los Dioses,"Buero Vallejo, Antonio","Salvat Editores, S.A.",158,-,1,f,097B
+863 A51e,"Escándalo, El","Alarcón, Pedro Antonio de","Salvat Editores, S.A.",278,-,1,f,086A
+863 A51n,"Niño de la Bola, El","Alarcón, Pedro Antonio de","Salvat Editores, S.A.",198,-,1,f,014B
+863 C18a,Antología,"Castro, Rosalía de","Salvat Editores, S.A.",202,-,1,f,006B
+863 C25f,"Familia de Pascual Duarte, La","Cela, Camilo José","Salvat Editores, S.A.",178,-,1,f,003B
+808 A92d,Discusión en la Escuela y Otros Cuentos,"Averchenko, Arkady…",Instituto Colombiano de Cultura,168,-,1,f,060C
+869.3 Q82a,Alves & Cía.,"Queiroz, Eça de","Salvat Editores, S.A.",134,-,1,f,024B
+862 A76s,"Señorita de Treveles, La - Es mi Hombre","Arniches, Carlos","Salvat Editores, S.A.",198,-,1,f,090A
+863 D15c,Cinco Horas con Mario,"Delibes, Miguel","Salvat Editores, S.A.",192,-,1,f,013B
+615 M18m,"Médico Aconseja, El","Mascaro Porcar, José María","Salvat Editores, S.A.",184,-,1,f,006A
+863 M17u,Últimas Tardes con Teresa,"Marse, Juan","Salvat Editores, S.A.",278,-,1,f,096A
+863 M18a,Algunos Muchacho y Otros Cuentos,"Matute, Ana María","Salvat Editores, S.A.",188,-,1,f,089A
+864 O78e,Estudios Sobre el Amor,"Ortega y Gasset, José","Salvat Editores, S.A.",152,-,1,f,009B
+865 C12c,Cartas Marruecas,"Cadalso, José","Salvat Editores, S.A.",182,-,1,f,-00B
+885 J26r,Recuerdos de Sócrates,Jenofonte,"Salvat Editores, S.A.",174,-,1,f,019B
+891.2 B85n,Novela Teatral,"Bulgakov, Mijail A.","Salvat Editores, S.A.",188,-,1,f,018B
+891.3 P88d,"Dubrovski - Relatos de Belkin, Los","Pushkin, Alejandro Sergievich","Salvat Editores, S.A.",182,-,1,f,088A
+891.3 P88h,"Hija del Capitán, La","Pushkin, Alejandro Sergievich","Salvat Editores, S.A.",146,-,1,f,005B
+891.3 S36c,Cuentos del Don,"Shólojov, Mijaíl Alexándrovich","Salvat Editores, S.A.",190,-,1,f,095A
+909 M15f,"Fundamentos del Siglo XX, Los","Maluquer de Montes, Juan","Salvat Editores, S.A.",220,-,1,f,094A
+E863 O78j,Juyungo,"Ortiz, Adalberto","Salvat Editores, S.A.",236,-,1,f,097A
+G863 A88p,"Papa verde, El","Asturias, miguel Ángel","Salvat Editores, S.A.",258,-,1,f,001B
+M863 F82c,Chac Mool y Otros Cuentos,"Fuentes, Carlos","Salvat Editores, S.A.",124,-,1,f,096B
+V863 G15t,Tierra Bajo los Pies,"Gallegos, Rómulo","Salvat Editores, S.A.",190,-,1,f,016B
+V863 O82c,Casas Muertas,"Otero Silva, Miguel","Salvat Editores, S.A.",186,-,1,f,091A
+292 G19d,"Dioses, Héroes y Monstruos","Gavaldá, Antonio C.",Editoial Mateu,320,-,1,f,-
+133 G27h,Historia del Ocultismo,"Gérin-Ricard , L. de","Luis de caralt Editor, S.A.",308,-,1,f,-
+842 M65t,"Tartufo - Escuela de los Maridos, La",Molière,Instituto Colombiano de Cultura,152,-,1,f,073C
+843 R12g,Gargantúa y Pantagruel,"Rabelais, François","Salvat Editores, S.A.",172,-,1,f,051B
+641 L84v,Viaje por las Cocinas del Mundo,"Lujan, Nestor","Salvat Editores, S.A.",206,-,1,f,080A
+759 O54c,Cien Obras Maestras de la Pintura,"Olivar, Marcial","Salvat Editores, S.A.",192,-,1,f,009A
+778 G17v,Vamos a Hablar de Cine,"García Escudero, José María","Salvat Editores, S.A.",166,-,1,f,049A
+780 V15a,Aproximación a la Música,"Valls Gorina, Manuel","Salvat Editores, S.A.",168,-,1,f,063A
+800 D41h,Hispanoamérica en su Literatura,"Díaz-Plaja, Guillermo","Salvat Editores, S.A.",180,-,1,f,067A
+813 H15m,"Maldición de los Dain, La","Hammett, Dashiell","Salvat Editores, S.A.",188,-,1,f,075A
+813 M25b,Benito Cereno,"Melville, Herman","Salvat Editores, S.A.",142,-,1,f,036A
+813 P61n,Narraciones Extraordinarias,"Poe, Edgar Allan","Salvat Editores, S.A.",192,-,1,f,005A
+813 T91a,"Aventuras de Tom Sawyer, Las","Twain, Mark","Salvat Editores, S.A.",190,-,1,f,046A
+822 S31h,Hamlet,"Shakespeare, William","Salvat Editores, S.A.",174,-,1,f,007A
+823 C66p,"Perro de los Baskerville, El","Conan Doyle, Sir Arthur","Salvat Editores, S.A.",172,-,1,f,042A
+823 D23r,Robinso Crusoe,"Defoe, Daniel","Salvat Editores, S.A.",228,-,1,f,030A
+823 D41c,"Cuento de Navidad - Grillo del Hogar, El","Dickens, Charles","Salvat Editores, S.A.",190,-,1,f,043A
+823 O69m,1984,"Orwell, George","Salvat Editores, S.A.",228,-,1,f,050A
+823 W 66f,Flush,"Woolf, Virginia","Salvat Editores, S.A.",156,-,1,f,083A
+823 W45r,"Retrato de Dorian Gray, El","Wilde, Oscar","Salvat Editores, S.A.",206,-,1,f,033A
+829.3 S94v,Viajes de Gulliver,"Swift, Jonathan","Salvat Editores, S.A.",192,-,1,f,017A
+833 G62w,Werther,"Goethe, Johann Wolfgang von","Salvat Editores, S.A.",176,-,1,f,010A
+833 H24n,Noches Florentinas - Memorias del Señor de Schnabelewopski,"Heine, Heinrich","Salvat Editores, S.A.",156,-,1,f,057A
+842 M65e,"Enfermero Imaginario, El; Médico a Palos, El",Molière,"Salvat Editores, S.A.",190,-,1,f,012A
+843 B15a,"Asunto Tenebroso, Un","Balzac, Honore de","Salvat Editores, S.A.",180,-,1,f,039A
+843 F19p,"Princesa de Cleves, La","Fayette, Madame de la","Salvat Editores, S.A.",180,-,1,f,073A
+843 M18d,"Desierto del Amor, El","Mauriac, François","Salvat Editores, S.A.",180,-,1,f,062A
+843 S82r,Relatos,Stendhal,"Salvat Editores, S.A.",162,-,1,f,026A
+843 V27e,Escuela de Robinsones,"Verne, Julio","Salvat Editores, S.A.",190,-,1,f,054A
+852 P47d,"Difunto Matías Pascal, El","Pirandello, Luigi","Salvat Editores, S.A.",228,-,1,f,070A
+853 P19d,"Diablo Sobre las Colinas, El","Pavese, Cesare","Salvat Editores, S.A.",166,-,1,f,081A
+860 R47a,Aproximación al Quijote,"Riquer, Martín de","Salvat Editores, S.A.",170,-,1,f,019A
+861 A56c,Cancionero y Romancero Español,"Alonso, Dámaso","Salvat Editores, S.A.",204,-,1,f,034A
+861 M11a,Antología Poética,"Machado, Antonio","Salvat Editores, S.A.",192,-,1,f,016A
+862 B17v,"Vida es Sueño, La; Alcalde de Zalamea, El","Barca, Calderón de la","Salvat Editores, S.A.",198,-,1,f,032A
+862 B26i,"Intereses Creados, Los","Benavente, Jacinto","Salvat Editores, S.A.",140,-,1,f,037A
+862 P66e,Eloisa Está Debajo de un Almendro,"Poncela, Enrique Jardiel","Salvat Editores, S.A.",174,-,1,f,069A
+862 R64c,"Celestina, La","Rojas, Fernando de","Salvat Editores, S.A.",192,-,1,f,074A
+862 V23f,"Fuente Ovejuna; Caballero de Olmedo, El","Vega, Lope de","Salvat Editores, S.A.",190,-,1,f,022A
+863 A51d,Doña Berta y otros Relatos,"Alas, Leopoldo 'Clarín'","Salvat Editores, S.A.",192,-,1,f,072A
+863 A52t,"Tierra de Nadie y Otros Relatos, La","Aldecoa, Ignacio","Salvat Editores, S.A.",194,-,1,f,068A
+863 A66f,"Florecillas de San Francisco, Las",Anónimo,"Salvat Editores, S.A.",182,-,1,f,077A
+863 A96t,Tiempos y Cosas,Azorín,"Salvat Editores, S.A.",164,-,1,f,055A
+863 B17b,"Busca, La","Baroja, Pío","Salvat Editores, S.A.",190,-,1,f,011A
+863 C25m,Mrs. Caldwell Habla con su Hijo,"Cela, Camilo José","Salvat Editores, S.A.",188,-,1,f,064A
+863 C27l,"Licenciado Vidriera y Otras Novelas Ejemplares, El","Cervantes Saavedra, Miguel de","Salvat Editores, S.A.",192,-,1,f,008A
+863 C86c,"Crónicas del Sochantre, Las","Cunqueiro, Álvaro","Salvat Editores, S.A.",166,-,1,f,079A
+863 D25h,"Hoja Roja, La","Delibes, Miguel","Salvat Editores, S.A.",192,-,1,f,004A
+863 F27b,"Bravos, Los","Fernandez Santos, Jesús","Salvat Editores, S.A.",198,-,1,f,093A
+863 F27v,Volvoreta,"Fernández Florez, Wenceslao","Salvat Editores, S.A.",182,-,1,f,078A
+863 G65c,"Caballero del Hongo Gris, El","Gomez de la Serna, Ramón","Salvat Editores, S.A.",180,-,1,f,031A
+863 M47a,Años y Leguas,"Miró, Gabriel","Salvat Editores, S.A.",190,-,1,f,044A
+863 P27t,Trafalgar,"Pérez Galdós, Benito","Salvat Editores, S.A.",188,-,1,f,027A
+863 Q82v,"Vida del Buscón Llamado Don Pablos, La","Quevedo, Francisco de","Salvat Editores, S.A.",190,-,1,f,015A
+863 S16a,Alfanhui,"Sánchez Ferlosio, Rafael","Salvat Editores, S.A.",166,-,1,f,060A
+863 S26b,"Bandido Adolescente, El","Sender, Ramón J.","Salvat Editores, S.A.",188,-,1,f,051A
+863 U61t,"Tía Tula, La","Unamuno, Miguel de","Salvat Editores, S.A.",188,-,1,f,001A
+863 V15j,Juanita la Larga,"Valera, Juan","Salvat Editores, S.A.",192,-,1,f,076A
+863A66l,"Lazarillo de Tormes - Diablo Cojuelo, El",Anónimo,"Salvat Editores, S.A.",182,-,1,f,059A
+864 O78 e,"Espectador, El","Ortega Y Gasset, José","Salvat Editores, S.A.",190,-,1,f,018A
+882 P58a,Alejandro y César,Plutarco,"Salvat Editores, S.A.",182,-,1,f,053A
+882 S63a,"Ayax, Antígona, Edipo Rey",Sófocles,"Salvat Editores, S.A.",182,-,1,f,025A
+891.3 A66m,"Mil y Una Noches (Antología), Las",Anónimo,"Salvat Editores, S.A.",170,-,1,f,045A
+891.3 C32n,Narraciones,"Chéjov, Antón Pávlovich","Salvat Editores, S.A.",174,-,1,f,048A
+891.3 D68j,"Jugador, El","Dostoievski, fedor","Salvat Editores, S.A.",190,-,1,f,003A
+891.3 G67c,Cuentos Rusos,"Gorki, Máximo…","Salvat Editores, S.A.",182,-,1,f,041A
+893.3 T65m,"Muerte de Iván Ilich, La; Diablo, El; Padre Sergio, El","Tolstoi, León","Salvat Editores, S.A.",190,-,1,f,023A
+930 P27h,"Humanidad Prehistórica, La","Pericot, Luis…","Salvat Editores, S.A.",198,-,1,f,020A
+A863 C67i,"Isla a mediodía y Otros Relatos, La","Cortázar, Julio","Salvat Editores, S.A.",202,-,1,f,071A
+A863 M15v,"Vínculo, El","Mallea, Eduardo","Salvat Editores, S.A.",178,-,1,f,061A
+A863 S17r,Recuerdos de Provincia,"Sarmineto, Domingo Faustino","Salvat Editores, S.A.",172,-,1,f,035A
+Ch863 D66c,Coronación,"Donoso, José","Salvat Editores, S.A.",188,-,1,f,065A
+G863 A88l,Leyendas de Gustemala,"Asturias, Miguel Ángel","Salvat Editores, S.A.",172,-,1,f,014A
+M863 Y16t,"Tierras Flacas, Las","Yáñez, Agustín","Salvat Editores, S.A.",232,-,1,f,047A
+915 P65d,"División del Mundo, La","Polo, Marco",Instituto Colombiano de Cultura,192,-,1,f,079C
+U863 OP62a,"Astillero, El","Onetti, Juan Carlos","Salvat Editores, S.A.",170,-,1,f,040A
+813 P62c,Cuentos Extraños y Maravillosos,"Poe, Edgar Allan",Instituto Colombiano de Cultura,104,-,2,f,084C
+891.3 T87p,"Primer Amor, El - Asia","Turguéniev, Iván Serguéyevich","Salvat Editores, S.A.",134,-,1,f,087B
+823 A88e2,Emma II,"Austen, Jane","Salvat Editores, S.A.",214,-,1,f,075B
+823 A88e1,Emma,"Austen, Jane","Salvat Editores, S.A.",168,-,1,f,074B
+C868 A71t1,Transparencias de Colombia I,"Arciniegas, Germán",Instituto Colombiano de Cultura,160,-,1,f,085C
+C863 A74o,Ocho Cuentistas Colombianos,"Arias Ramírez, Fernando",Instituto Colombiano de Cultura,144,-,1,f,087C
+C867 S15c,Cuando Bogotá Tuvo Tranvía,"Samper Gnecco, Andrés",Instituto Colombiano de Cultura,128,-,1,f,088C
+808 A74s,"Siete Vidas de Midas, Las","Ariza, Susana de",Instituto Colombiano de Cultura,126,-,1,f,-00C
+C862 R29t,Teatro para Niños,"Reyes, Carlos José",Instituto Colombiano de Cultura,96,-,1,f,033C

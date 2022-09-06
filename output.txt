@@ -1,0 +1,15 @@
+Error querying file info: Error when getting information for file “/home/carlos/DataBases/Biblioteca/sedhaa5mt”: No such file or directory
+
+Error querying file info: Error when getting information for file “/home/carlos/DataBases/Biblioteca/sedlOWTXf”: No such file or directory
+
+Exporting Table Determinantes para nombre del autor
+sed: can't read º: No such file or directory
+Enter password: 
+ERROR 1054 (42S22) at line 1: Unknown column 'Nº' in 'field list'
+
+Exporting Table Préstamos
+sed: can't read º: No such file or directory
+Enter password: 
+ERROR 1292 (22007) at line 1: Incorrect datetime value: '10/15/05 00:00:00' for column 'FechaPrestamo' at row 1
+
+

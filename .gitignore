@@ -1,0 +1,20 @@
+# Python files and folders
+__pycache__/
+
+# VScode files
+.vscode/
+
+# DB-Related files and folders
+old_data_sql/
+old_db/
+dataOldDb/
+csvCatalog/
+csvClassification/
+Biblioteca_Test_JDBC.odb
+BibliotecaPersonal.mdb
+mysql-pwd
+output.txt
+all_books.csv
+
+# String connections! It is a no-no!
+*.ini

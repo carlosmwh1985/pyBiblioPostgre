@@ -1,0 +1,32 @@
+id,determinante
+-1,Filosofía o teoría
+-2,"Compendios, bosquejos, manuales"
+-3,Diccionarios o enciclopedias
+-4,Ensayos y discursos sobre un tema (sólo para Literatura - 800)
+-5,Publicaciones periódicas
+-6,Organización o sociedad
+-7,Estudio y enseñanza (manuales de profesores)
+-8,Colecciones (antologías o ensayos)
+-9,Historia
+-2,Inglés
+-3,Alemán
+-4,Francés
+-5,Italiano
+-6,Español
+-7,Latín
+-8,Griego
+-9,Otras lenguas
+-4,Europa
+-5,Asia
+-6,Africa
+-7,América del Norte y América Central
+-8,América del Sur
+-9,Oceanía y regiones polares
+-1,Poesía - Poesía Épica
+-2,Teatro
+-3,Novela - Fábulas
+-4,Ensayos
+-5,Oratoria
+-6,Epístolas
+-7,Sátira y humorismo
+-8,Miscelánea

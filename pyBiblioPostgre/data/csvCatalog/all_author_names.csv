@@ -1,0 +1,476 @@
+autor,aut_nombre,aut_apellido,db_id
+"Neruda, Pablo",Neruda,Pablo,1.0
+"Mejía Rivera, Orlando",Mejía Rivera,Orlando,2.0
+"Samper Pizano, Daniel",Samper Pizano,Daniel,3.0
+"Moro, Tomás",Moro,Tomás,4.0
+"Gonzáles Neira, Fabricio…",Gonzáles Neira,Fabricio…,5.0
+"Meyrink, Gustav",Meyrink,Gustav,6.0
+"Cárdenas Nanneti, Jorge",Cárdenas Nanneti,Jorge,7.0
+"García Camarero, Ernesto",García Camarero,Ernesto,8.0
+"Bridges, Valery",Bridges,Valery,9.0
+"Bloch, Arthur",Bloch,Arthur,10.0
+"Benitez, Juan José",Benitez,Juan José,11.0
+"Almena, Fernando",Almena,Fernando,12.0
+Varios,Varios,-,13.0
+"Stevenson, Robert Louis",Stevenson,Robert Louis,14.0
+"Nietzsche, Federico",Nietzsche,Federico,15.0
+"Jiménez, Juán Ramón",Jiménez,Juán Ramón,16.0
+"Kafka, Franz",Kafka,Franz,17.0
+"Ospìna, Omar Evelio",Ospìna,Omar Evelio,18.0
+"Zapata, Flobert",Zapata,Flobert,19.0
+"García Lorca, Federico",García Lorca,Federico,20.0
+"Mutis, Álvaro",Mutis,Álvaro,21.0
+"Vélez Correa, Robeto",Vélez Correa,Robeto,22.0
+"Gómez, Eduardo…",Gómez,Eduardo…,23.0
+"Mann, Thomas",Mann,Thomas,24.0
+"Davies, Paul",Davies,Paul,25.0
+"García Márquez, Gabriel",García Márquez,Gabriel,26.0
+"Cortázar, Julio",Cortázar,Julio,27.0
+"Anton, Howard",Anton,Howard,28.0
+"Leithold, Louis",Leithold,Louis,29.0
+"Arbelaez, Jotamario",Arbelaez,Jotamario,30.0
+"Ospina Buitrago, William",Ospina Buitrago,William,31.0
+"Paz, Octavio",Paz,Octavio,32.0
+"Gibran, Khalil",Gibran,Khalil,33.0
+"Fromm, Erich",Fromm,Erich,34.0
+"Engels, Federico",Engels,Federico,35.0
+"Dostoievsky, Fiodor",Dostoievsky,Fiodor,36.0
+"Gardner, Martin",Gardner,Martin,37.0
+Anónimo,Anónimo,-,38.0
+"Maluquer de Motes, Juan",Maluquer de Motes,Juan,39.0
+"Miravitlles, Luis",Miravitlles,Luis,40.0
+"Pinillos, José Luis",Pinillos,José Luis,41.0
+"Roman, Colin A.",Roman,Colin A.,42.0
+"Crespo, José Manuel…",Crespo,José Manuel…,43.0
+"Bernal Villegas, Alfredo…",Bernal Villegas,Alfredo…,44.0
+"Kippenhahn, Rudolf",Kippenhahn,Rudolf,45.0
+"Rucker, Rudy",Rucker,Rudy,46.0
+"Restrepo, Carlos Enrique…",Restrepo,Carlos Enrique…,47.0
+Platón,Platón,-,48.0
+"Clarke, Arthur C.",Clarke,Arthur C.,49.0
+"Carpentier, Alejo",Carpentier,Alejo,50.0
+"Verne, Julio",Verne,Julio,51.0
+"Shakespeare, William",Shakespeare,William,52.0
+Goethe,Goethe,-,53.0
+"Sagan, Carl",Sagan,Carl,54.0
+"Dennison Beetle, Ralph",Dennison Beetle,Ralph,55.0
+"Postigo, Luis",Postigo,Luis,56.0
+"Baldor, Aurelio",Baldor,Aurelio,57.0
+"Herrera Castañeda, Hector Herney",Herrera Castañeda,Hector Herney,58.0
+"Marcelo, Alonso...",Marcelo,Alonso...,59.0
+"Alzate Echeverri, Marta Cielo",Alzate Echeverri,Marta Cielo,60.0
+"Castro Canal, Daniel",Castro Canal,Daniel,61.0
+"Vidal, Jorge",Vidal,Jorge,62.0
+"Castro, Ana Paula…",Castro,Ana Paula…,63.0
+"Berlitz, Charles",Berlitz,Charles,64.0
+"Born, Max",Born,Max,65.0
+"Gottfried, Byron S.",Gottfried,Byron S.,66.0
+"Sábato, Ernesto",Sábato,Ernesto,67.0
+"Vélez Correa, Roberto",Vélez Correa,Roberto,68.0
+"Viedma C., Juan A.",Viedma C.,Juan A.,69.0
+"Granville, William Anthony",Granville,William Anthony,70.0
+"Casas Reyes, José Vicente…",Casas Reyes,José Vicente…,71.0
+"García García, Carmelo…",García García,Carmelo…,72.0
+"Torres Cardona, Héctor Fabio",Torres Cardona,Héctor Fabio,73.0
+"Seigubbar Güiza, José…",Seigubbar Güiza,José…,74.0
+"Castillo, Carlos…",Castillo,Carlos…,75.0
+"Asimov, Isaac",Asimov,Isaac,76.0
+"Stevenson, R.L.",Stevenson,R.L.,77.0
+"Wells, Herbert George",Wells,Herbert George,78.0
+"Borges, Jorge Luis",Borges,Jorge Luis,79.0
+"Hawking, Stephen W.",Hawking,Stephen W.,80.0
+"Dretske, Fred I.",Dretske,Fred I.,81.0
+"Allan Poe, Edgar",Allan Poe,Edgar,82.0
+"Tahan, Malba",Tahan,Malba,83.0
+"Castrillón, Carlos A.",Castrillón,Carlos A.,84.0
+"López R., Oscar",López R.,Oscar,85.0
+"García Duque, Carlos Emilio",García Duque,Carlos Emilio,86.0
+"Guerrero, Juan Antonio…",Guerrero,Juan Antonio…,87.0
+"Palacios, Eustaquio…",Palacios,Eustaquio…,88.0
+"Pizarnik, Alejandra",Pizarnik,Alejandra,89.0
+"Shólojov, Mijaíl Alexándrovich",Shólojov,Mijaíl Alexándrovich,90.0
+"Orwell, George",Orwell,George,91.0
+"Donoso, José",Donoso,José,92.0
+"Stevens, Peter S.",Stevens,Peter S.,93.0
+"Zapata, Flobert…",Zapata,Flobert…,94.0
+"Nietzsche, Friederich",Nietzsche,Friederich,95.0
+"Baudelaire, Charles",Baudelaire,Charles,96.0
+"Silva, José Asunción",Silva,José Asunción,97.0
+Voltaire,Voltaire,-,98.0
+"Joyce, James",Joyce,James,99.0
+"Gorki, Maximo",Gorki,Maximo,100.0
+"Verga, Giovanni",Verga,Giovanni,101.0
+"Balestra, Tito",Balestra,Tito,102.0
+"Giudici, Giovanni",Giudici,Giovanni,103.0
+"Wagner, Richard",Wagner,Richard,104.0
+"Gil-Albert, Juan",Gil-Albert,Juan,105.0
+"Sontag, Susan",Sontag,Susan,106.0
+"Schrödinger, Erwin",Schrödinger,Erwin,107.0
+"García G., Luis Alpidio",García G.,Luis Alpidio,108.0
+"Vallejo J., Margarita María",Vallejo J.,Margarita María,109.0
+"Devia Cubillos, Alfonso",Devia Cubillos,Alfonso,110.0
+"Shackelford, James F.",Shackelford,James F.,111.0
+"Einstein, Albert",Einstein,Albert,112.0
+"Saja Saéz, José Antonio de",Saja Saéz,José Antonio de,113.0
+"Thomson, Garret...",Thomson,Garret...,114.0
+"García Quintero, Felipe…",García Quintero,Felipe…,115.0
+"Serway, Raymond A…",Serway,Raymond A…,116.0
+"Carroll, Lewis",Carroll,Lewis,117.0
+"Chejov, Anton P.",Chejov,Anton P.,118.0
+"Pushkin, A. S.",Pushkin,A. S.,119.0
+"Rotterdam, Erasmo de",Rotterdam,Erasmo de,120.0
+"Benedetti, Mario",Benedetti,Mario,121.0
+"Cernuda, Luis",Cernuda,Luis,122.0
+"Bioy Casares, Adolfo",Bioy Casares,Adolfo,123.0
+"Silvestrini, Vittorio",Silvestrini,Vittorio,124.0
+"Arciniegas Moscoso, Julio César",Arciniegas Moscoso,Julio César,125.0
+"Savéliev, I. V.",Savéliev,I. V.,126.0
+"Marín, Duván",Marín,Duván,127.0
+"Gómez Giraldo, Hugo",Gómez Giraldo,Hugo,128.0
+"Molina, E.C…",Molina,E.C…,129.0
+"Einstein, Albert…",Einstein,Albert…,130.0
+"Gribbin, Jhon",Gribbin,Jhon,131.0
+"Laplace, Pierre-Simon de",Laplace,Pierre-Simon de,132.0
+"Bunge, Mario",Bunge,Mario,133.0
+"Caicedo, Andrés",Caicedo,Andrés,134.0
+"Schopenhauer, Arthur",Schopenhauer,Arthur,135.0
+"Yourcenar, Marguerite",Yourcenar,Marguerite,136.0
+"Jung, Carl Gustav",Jung,Carl Gustav,137.0
+"Sametband, Moisés José",Sametband,Moisés José,138.0
+"Prigogine, Ilya",Prigogine,Ilya,139.0
+"Bogdánov, K.",Bogdánov,K.,140.0
+"Boyce, William E….",Boyce,William E….,141.0
+"Cortazar, Julio",Cortazar,Julio,142.0
+Keenan J.H. …,Keenan J.H. …,-,143.0
+"Castro, Luis Fernando…",Castro,Luis Fernando…,144.0
+"Rodríguez Renuncio, Juan Antonio…",Rodríguez Renuncio,Juan Antonio…,145.0
+"Huxley, Aldous",Huxley,Aldous,146.0
+"Wells, Dare A.",Wells,Dare A.,147.0
+"Eisberg, Robert…",Eisberg,Robert…,148.0
+"Mejía Vallejo, Manuel",Mejía Vallejo,Manuel,149.0
+"Griffiths, David Jeffrey",Griffiths,David Jeffrey,150.0
+"Muñoz Quevedo, José M.",Muñoz Quevedo,José M.,151.0
+"Vieira, Maruja",Vieira,Maruja,152.0
+"Saramago, José",Saramago,José,153.0
+"Narihira, Ariwara no",Narihira,Ariwara no,154.0
+"Buch, Erstes",Buch,Erstes,155.0
+"Otto, E.",Otto,E.,156.0
+"Griesbach, Heinz…",Griesbach,Heinz…,157.0
+"Lozano Cleves, Alberto",Lozano Cleves,Alberto,158.0
+"Gugeler, Russell A.",Gugeler,Russell A.,159.0
+"Novoa M., Alfonso",Novoa M.,Alfonso,160.0
+"Sienkiewicz, Enrique",Sienkiewicz,Enrique,161.0
+" Figueredo, Pedro",Figueredo,Pedro,162.0
+"Rivera, José Eustasio",Rivera,José Eustasio,163.0
+"Jaramillo Meza, J. B.",Jaramillo Meza,J. B.,164.0
+-,-,-,165.0
+"Cordovez Moure, José María…",Cordovez Moure,José María…,166.0
+"Fitzgerald, Francis Scott",Fitzgerald,Francis Scott,167.0
+"Davies, P. C. W. …",Davies,P. C. W. …,168.0
+"Dnnery, Philippe",Dnnery,Philippe,169.0
+"Jackson, John David",Jackson,John David,170.0
+"McGuffie, Kendal …",McGuffie,Kendal …,171.0
+"March, Robert H.",March,Robert H.,172.0
+"Bohm, David",Bohm,David,173.0
+"Ruiz, Carlos-Enrique",Ruiz,Carlos-Enrique,174.0
+"Houllebecq, Michel",Houllebecq,Michel,175.0
+"Canetti, Elias",Canetti,Elias,176.0
+"Espinosa, Germán",Espinosa,Germán,177.0
+"Castro Chadid, Iván",Castro Chadid,Iván,178.0
+"Zalames, Jorge…",Zalames,Jorge…,179.0
+"Fiódorov, N. N.",Fiódorov,N. N.,180.0
+"Milántiev, M. …",Milántiev,M. …,181.0
+"Griffiths, David J",Griffiths,David J,182.0
+Carlos Ivorra Castillo,Carlos Ivorra Castillo,-,183.0
+Solomon Gartenhaus,Solomon Gartenhaus,-,184.0
+"Reyes, Ángela",Reyes,Ángela,185.0
+"Melrose, D. B.",Melrose,D. B.,186.0
+"Vidales, Luis",Vidales,Luis,187.0
+"Bradbury, Ray",Bradbury,Ray,188.0
+"Whitman, Walt",Whitman,Walt,189.0
+"Vélez Correa, Roberto…",Vélez Correa,Roberto…,190.0
+"Barco, C. …",Barco,C. …,191.0
+"Allendoerfer, Carl B. …",Allendoerfer,Carl B. …,192.0
+"Pinter, Charles C.",Pinter,Charles C.,193.0
+"León, Juanita",León,Juanita,194.0
+"Eco, Umberto",Eco,Umberto,195.0
+"Maeterlinck, Maurice",Maeterlinck,Maurice,196.0
+"Cervantes, Miguel de",Cervantes,Miguel de,197.0
+"Borges, Jorge Luis…",Borges,Jorge Luis…,198.0
+"Camus, Alrbert",Camus,Alrbert,199.0
+"Kawabata, Yasunari",Kawabata,Yasunari,200.0
+"Süskind, Patrick",Süskind,Patrick,201.0
+"Goldstein, Herbert",Goldstein,Herbert,202.0
+"Freud, Sigmund",Freud,Sigmund,203.0
+"Piglia, Ricardo",Piglia,Ricardo,204.0
+"Trabulse, Elías",Trabulse,Elías,205.0
+"Torri, Julio (Selección de)",Torri,Julio (Selección de),206.0
+"Cobo Borda, Juan Gustavo",Cobo Borda,Juan Gustavo,207.0
+"Arana, Federico",Arana,Federico,208.0
+"Canetti, Elías",Canetti,Elías,209.0
+"Hoyos Patiño, Fabián",Hoyos Patiño,Fabián,210.0
+"Hawking, Stephen (Edición de)",Hawking,Stephen (Edición de),211.0
+"Capra, Fritjof",Capra,Fritjof,212.0
+"Preskill, John",Preskill,John,213.0
+"Shelley, Mary",Shelley,Mary,214.0
+"Penella, Manuel",Penella,Manuel,215.0
+"Abad Gómez, Héctor",Abad Gómez,Héctor,216.0
+Deportiva - Legislación,Deportiva - Legislación,-,217.0
+"Arango, Gonzalo",Arango,Gonzalo,218.0
+"Lindgren, Ingvar",Lindgren,Ingvar,219.0
+"Tannor, David Joshua",Tannor,David Joshua,220.0
+"Bachau, H. et. al.",Bachau,H. et. al.,221.0
+"Joachain, Charles J.",Joachain,Charles J.,222.0
+"Lebedev, N. N.",Lebedev,N. N.,223.0
+"Vallejo-Gómez, Nelson…",Vallejo-Gómez,Nelson…,224.0
+"Coggle, Paul…",Coggle,Paul…,225.0
+"Moragas, Elvira de …",Moragas,Elvira de …,226.0
+"Andersen, Hans Christian",Andersen,Hans Christian,227.0
+"Hosseini, Khaled",Hosseini,Khaled,228.0
+"Alighieri, Dante",Alighieri,Dante,229.0
+"Beckett, Samuel",Beckett,Samuel,230.0
+"Reyes, Alfonso…",Reyes,Alfonso…,231.0
+"Glissant, Édouard",Glissant,Édouard,232.0
+"Mokus, Antanas…",Mokus,Antanas…,233.0
+"Marulanda, Valentina…",Marulanda,Valentina…,234.0
+"Politzer, Georges",Politzer,Georges,235.0
+"Carrera Maciá, J. M.",Carrera Maciá,J. M.,236.0
+"Camus, Albert",Camus,Albert,237.0
+"Cauthémoc Sánchez, Carlos",Cauthémoc Sánchez,Carlos,238.0
+"Lindgren, Ingvar…",Lindgren,Ingvar…,239.0
+"Fuentes, Carlos",Fuentes,Carlos,240.0
+"Icaza, Jorge",Icaza,Jorge,241.0
+"Baroja, Pío",Baroja,Pío,242.0
+"Chastel, André",Chastel,André,243.0
+"Daudet, Alphonse",Daudet,Alphonse,244.0
+"James, Henry",James,Henry,245.0
+Boccaccio,Boccaccio,-,246.0
+"Twain, Mark",Twain,Mark,247.0
+"Pratolini, Vasco",Pratolini,Vasco,248.0
+"Pérez Galdós, Benito",Pérez Galdós,Benito,249.0
+"Scönberger, A.",Scönberger,A.,250.0
+"Sin, Lu",Sin,Lu,251.0
+"Zola, Émile",Zola,Émile,252.0
+"Rostand, Jean",Rostand,Jean,253.0
+"Sánchez Mazas, Rafael",Sánchez Mazas,Rafael,254.0
+"Melville, Herman",Melville,Herman,255.0
+"Sender, Ramón José",Sender,Ramón José,256.0
+"Tolstoi, León",Tolstoi,León,257.0
+"Martí, José",Martí,José,258.0
+"Berceo, Gonzalo de…",Berceo,Gonzalo de…,259.0
+"Pardo Bazán, Emilia",Pardo Bazán,Emilia,260.0
+"Colón, Cristobal…",Colón,Cristobal…,261.0
+"Cervantes Saavedra, Miguel de",Cervantes Saavedra,Miguel de,262.0
+"Castedo, Leopoldo",Castedo,Leopoldo,263.0
+"Balzac, Honoré de",Balzac,Honoré de,264.0
+"Darwin, Charles R.",Darwin,Charles R.,265.0
+"Pavese, Cesare",Pavese,Cesare,266.0
+"Scott, Walter",Scott,Walter,267.0
+"Séneca, Lucio Anneo",Séneca,Lucio Anneo,268.0
+"McCullers, Carson",McCullers,Carson,269.0
+"Vargas Llosa, Mario",Vargas Llosa,Mario,270.0
+"Marías, Julián",Marías,Julián,271.0
+"Halcón, Manuel",Halcón,Manuel,272.0
+"Marco, Joaquín",Marco,Joaquín,273.0
+"Prévost, Abate",Prévost,Abate,274.0
+"Matute, Ana María",Matute,Ana María,275.0
+"Ferrater Mora, José",Ferrater Mora,José,276.0
+"Sampedro, José Luis",Sampedro,José Luis,277.0
+"Brontë, Charlotte",Brontë,Charlotte,278.0
+"Tarín-Iglesias, José",Tarín-Iglesias,José,279.0
+"Wilde, Oscar",Wilde,Oscar,280.0
+"Gómez de la Serna, Ramón",Gómez de la Serna,Ramón,281.0
+"Garagorri, Paulino",Garagorri,Paulino,282.0
+"Tarradell, Miguel",Tarradell,Miguel,283.0
+"Molina, Tirso de",Molina,Tirso de,284.0
+"Vega, Garcilaso de la",Vega,Garcilaso de la,285.0
+"Villalonga, Lorenzo",Villalonga,Lorenzo,286.0
+Plutarco,Plutarco,-,287.0
+"Gógol, Nikolai Vasílievich",Gógol,Nikolai Vasílievich,288.0
+"Cary, Joyce",Cary,Joyce,289.0
+"Eichendorff, Joseph Baron von…",Eichendorff,Joseph Baron von…,290.0
+"Nabokov, Vladimir",Nabokov,Vladimir,291.0
+"Caballero, Fernán",Caballero,Fernán,292.0
+"Cruz, Sor Juana Inés",Cruz,Sor Juana Inés,293.0
+"London, jack",London,jack,294.0
+"Aub, max",Aub,max,295.0
+"Laxness, Halldor",Laxness,Halldor,296.0
+"Böll, Heinrich",Böll,Heinrich,297.0
+"Hawthorne, Nathaniel",Hawthorne,Nathaniel,298.0
+"García-Alas Ureña, Leopoldo Enrique (Clarín)",García-Alas Ureña,Leopoldo Enrique (Clarín),299.0
+"Maupassant, Guy de",Maupassant,Guy de,300.0
+"Olivar, Marcial",Olivar,Marcial,301.0
+"Valencia, Guillermo",Valencia,Guillermo,302.0
+"Cordovez Moure, José María",Cordovez Moure,José María,303.0
+"Abadía M., Guillermo",Abadía M.,Guillermo,304.0
+"Vargas Tejada, Luis",Vargas Tejada,Luis,305.0
+"Cuadra, José de la",Cuadra,José de la,306.0
+"Alzate Avendaño, Gilberto",Alzate Avendaño,Gilberto,307.0
+"Acosta de Samper, Soledad",Acosta de Samper,Soledad,308.0
+"Kipling, Rudyard",Kipling,Rudyard,309.0
+"Vallejo, Alejandro",Vallejo,Alejandro,310.0
+"Bonilla Naar, Alfonso…",Bonilla Naar,Alfonso…,311.0
+"Silvestre, Luis Segundo",Silvestre,Luis Segundo,312.0
+"Vega, Félix Lope de",Vega,Félix Lope de,313.0
+"Blanco Fombona, Rufino",Blanco Fombona,Rufino,314.0
+"Jaramillo Escobar, Jaime",Jaramillo Escobar,Jaime,315.0
+"Arciniegas, Germán…",Arciniegas,Germán…,316.0
+"Sanín Cano, Baldomero",Sanín Cano,Baldomero,317.0
+"Balzac, Honorato de",Balzac,Honorato de,318.0
+"Pombo, Rafael",Pombo,Rafael,319.0
+"Miramón, Alberto",Miramón,Alberto,320.0
+"Calibán, Seud",Calibán,Seud,321.0
+"Rojas, Jorge…",Rojas,Jorge…,322.0
+"Osorio, Luis Enrique",Osorio,Luis Enrique,323.0
+"Alba, Manuel María",Alba,Manuel María,324.0
+"Valencia, Elmo",Valencia,Elmo,325.0
+"Gorki, Máximo",Gorki,Máximo,326.0
+"Posada, Eduardo",Posada,Eduardo,327.0
+"Caballero Calderón, Eduardo",Caballero Calderón,Eduardo,328.0
+"Pushkin, Alejandro Sergievich",Pushkin,Alejandro Sergievich,329.0
+"Cocherín, Iván",Cocherín,Iván,330.0
+"Arias mejía, Emilio",Arias mejía,Emilio,331.0
+"Forero, Paulo E.",Forero,Paulo E.,332.0
+"Delgado Nieto, Carlos",Delgado Nieto,Carlos,333.0
+"Delgado, Camilo S.",Delgado,Camilo S.,334.0
+"Bonilla Naar, Alfonso",Bonilla Naar,Alfonso,335.0
+"Zapata Olivella, Manuel…",Zapata Olivella,Manuel…,336.0
+"Uslar Pietri, Arturo",Uslar Pietri,Arturo,337.0
+"Restrepo Duque, Hernán",Restrepo Duque,Hernán,338.0
+"Álvarez Gardeazábal, Gustavo",Álvarez Gardeazábal,Gustavo,339.0
+"Goethe, Johann Wolfgang",Goethe,Johann Wolfgang,340.0
+"Cepeda Samudio, Álvaro",Cepeda Samudio,Álvaro,341.0
+"Florez, Julio",Florez,Julio,342.0
+"Arroyo, Justo…",Arroyo,Justo…,343.0
+"Mendoza Varela, Eduardo",Mendoza Varela,Eduardo,344.0
+"Pinzón, Carlos Ernesto…",Pinzón,Carlos Ernesto…,345.0
+"Félix Fuenmayor, José",Félix Fuenmayor,José,346.0
+"Díaz Díaz, Oswaldo",Díaz Díaz,Oswaldo,347.0
+"Reyes, Carlos José",Reyes,Carlos José,348.0
+"Forero, Manuel José",Forero,Manuel José,349.0
+"Hernández, José",Hernández,José,350.0
+"Assis, Machado de",Assis,Machado de,351.0
+"Montezuma Hurtado, Alberto",Montezuma Hurtado,Alberto,352.0
+"Proust, Marcel",Proust,Marcel,353.0
+"Montoya de Umaña, Enriqueta",Montoya de Umaña,Enriqueta,354.0
+"Paredes Pardo, Jaime",Paredes Pardo,Jaime,355.0
+"Perdomo E., José Ignacio",Perdomo E.,José Ignacio,356.0
+"Jaramillo Meza, Juan B.",Jaramillo Meza,Juan B.,357.0
+Díaz Díaz Oswaldo,Díaz Díaz Oswaldo,-,358.0
+"López Albújar, Enrique",López Albújar,Enrique,359.0
+"Lozano y Lozano, Juan",Lozano y Lozano,Juan,360.0
+"Muñoz Quevedo, Josue",Muñoz Quevedo,Josue,361.0
+"Montaña, Antonio",Montaña,Antonio,362.0
+"Greiff, León de",Greiff,León de,363.0
+"García Peña, Roberto",García Peña,Roberto,364.0
+CIMPEC - O.E.A.,CIMPEC - O.E.A.,-,365.0
+"Hoyos Parra, Dorian",Hoyos Parra,Dorian,366.0
+"Buitrago, Fanny",Buitrago,Fanny,367.0
+"Schiller, Federico",Schiller,Federico,368.0
+"Carrasquilla, Tomás",Carrasquilla,Tomás,369.0
+"Carranza, Eduardo",Carranza,Eduardo,370.0
+"Lemaitre, Eduardo",Lemaitre,Eduardo,371.0
+"Almeida, Viana de",Almeida,Viana de,372.0
+"Arciniegas, Germán",Arciniegas,Germán,373.0
+"Piñeros Corpas, Joaquín",Piñeros Corpas,Joaquín,374.0
+"Bateman, Alfredo D.",Bateman,Alfredo D.,375.0
+"Truque, Carlos Arturo",Truque,Carlos Arturo,376.0
+"Bellow, Saul",Bellow,Saul,377.0
+"Stevenon, Robert Louis",Stevenon,Robert Louis,378.0
+"Pinillos, Jose Luis",Pinillos,Jose Luis,379.0
+"Miranda, N.",Miranda,N.,380.0
+"Bernal C., Juan de Dios",Bernal C.,Juan de Dios,381.0
+"Cañaveral, Jesús",Cañaveral,Jesús,382.0
+"Carthy, J.D.",Carthy,J.D.,383.0
+"Hugh Newman, L.",Hugh Newman,L.,384.0
+"Santos Molano, Enrique",Santos Molano,Enrique,385.0
+"Rosenblat, Angel",Rosenblat,Angel,386.0
+"Gamow, George",Gamow,George,387.0
+"Clark, Ronald W…",Clark,Ronald W…,388.0
+"Gallego, Julián",Gallego,Julián,389.0
+"Lewis, Sinclair",Lewis,Sinclair,390.0
+"Chaucer, Geoffrey",Chaucer,Geoffrey,391.0
+"Woolf, Virginia",Woolf,Virginia,392.0
+"Maurois, André",Maurois,André,393.0
+"Moravia, Alberto",Moravia,Alberto,394.0
+"Becquer, Gustavo Adolfo",Becquer,Gustavo Adolfo,395.0
+"Roslaes, Luis",Roslaes,Luis,396.0
+"Goytisolo, Juan",Goytisolo,Juan,397.0
+"Buero Vallejo, Antonio",Buero Vallejo,Antonio,398.0
+"Alarcón, Pedro Antonio de",Alarcón,Pedro Antonio de,399.0
+"Castro, Rosalía de",Castro,Rosalía de,400.0
+"Cela, Camilo José",Cela,Camilo José,401.0
+"Averchenko, Arkady…",Averchenko,Arkady…,402.0
+"Queiroz, Eça de",Queiroz,Eça de,403.0
+"Arniches, Carlos",Arniches,Carlos,404.0
+"Delibes, Miguel",Delibes,Miguel,405.0
+"Mascaro Porcar, José María",Mascaro Porcar,José María,406.0
+"Marse, Juan",Marse,Juan,407.0
+"Ortega y Gasset, José",Ortega y Gasset,José,408.0
+"Cadalso, José",Cadalso,José,409.0
+Jenofonte,Jenofonte,-,410.0
+"Bulgakov, Mijail A.",Bulgakov,Mijail A.,411.0
+"Maluquer de Montes, Juan",Maluquer de Montes,Juan,412.0
+"Ortiz, Adalberto",Ortiz,Adalberto,413.0
+"Asturias, miguel Ángel",Asturias,miguel Ángel,414.0
+"Gallegos, Rómulo",Gallegos,Rómulo,415.0
+"Otero Silva, Miguel",Otero Silva,Miguel,416.0
+"Gavaldá, Antonio C.",Gavaldá,Antonio C.,417.0
+"Gérin-Ricard , L. de",Gérin-Ricard,L. de,418.0
+Molière,Molière,-,419.0
+"Rabelais, François",Rabelais,François,420.0
+"Lujan, Nestor",Lujan,Nestor,421.0
+"García Escudero, José María",García Escudero,José María,422.0
+"Valls Gorina, Manuel",Valls Gorina,Manuel,423.0
+"Díaz-Plaja, Guillermo",Díaz-Plaja,Guillermo,424.0
+"Hammett, Dashiell",Hammett,Dashiell,425.0
+"Poe, Edgar Allan",Poe,Edgar Allan,426.0
+"Conan Doyle, Sir Arthur",Conan Doyle,Sir Arthur,427.0
+"Defoe, Daniel",Defoe,Daniel,428.0
+"Dickens, Charles",Dickens,Charles,429.0
+"Swift, Jonathan",Swift,Jonathan,430.0
+"Goethe, Johann Wolfgang von",Goethe,Johann Wolfgang von,431.0
+"Heine, Heinrich",Heine,Heinrich,432.0
+"Balzac, Honore de",Balzac,Honore de,433.0
+"Fayette, Madame de la",Fayette,Madame de la,434.0
+"Mauriac, François",Mauriac,François,435.0
+Stendhal,Stendhal,-,436.0
+"Pirandello, Luigi",Pirandello,Luigi,437.0
+"Riquer, Martín de",Riquer,Martín de,438.0
+"Alonso, Dámaso",Alonso,Dámaso,439.0
+"Machado, Antonio",Machado,Antonio,440.0
+"Barca, Calderón de la",Barca,Calderón de la,441.0
+"Benavente, Jacinto",Benavente,Jacinto,442.0
+"Poncela, Enrique Jardiel",Poncela,Enrique Jardiel,443.0
+"Rojas, Fernando de",Rojas,Fernando de,444.0
+"Vega, Lope de",Vega,Lope de,445.0
+"Alas, Leopoldo 'Clarín'",Alas,Leopoldo 'Clarín',446.0
+"Aldecoa, Ignacio",Aldecoa,Ignacio,447.0
+Azorín,Azorín,-,448.0
+"Cunqueiro, Álvaro",Cunqueiro,Álvaro,449.0
+"Fernandez Santos, Jesús",Fernandez Santos,Jesús,450.0
+"Fernández Florez, Wenceslao",Fernández Florez,Wenceslao,451.0
+"Gomez de la Serna, Ramón",Gomez de la Serna,Ramón,452.0
+"Miró, Gabriel",Miró,Gabriel,453.0
+"Quevedo, Francisco de",Quevedo,Francisco de,454.0
+"Sánchez Ferlosio, Rafael",Sánchez Ferlosio,Rafael,455.0
+"Sender, Ramón J.",Sender,Ramón J.,456.0
+"Unamuno, Miguel de",Unamuno,Miguel de,457.0
+"Valera, Juan",Valera,Juan,458.0
+"Ortega Y Gasset, José",Ortega Y Gasset,José,459.0
+Sófocles,Sófocles,-,460.0
+"Chéjov, Antón Pávlovich",Chéjov,Antón Pávlovich,461.0
+"Dostoievski, fedor",Dostoievski,fedor,462.0
+"Gorki, Máximo…",Gorki,Máximo…,463.0
+"Pericot, Luis…",Pericot,Luis…,464.0
+"Mallea, Eduardo",Mallea,Eduardo,465.0
+"Sarmineto, Domingo Faustino",Sarmineto,Domingo Faustino,466.0
+"Asturias, Miguel Ángel",Asturias,Miguel Ángel,467.0
+"Yáñez, Agustín",Yáñez,Agustín,468.0
+"Polo, Marco",Polo,Marco,469.0
+"Onetti, Juan Carlos",Onetti,Juan Carlos,470.0
+"Turguéniev, Iván Serguéyevich",Turguéniev,Iván Serguéyevich,471.0
+"Austen, Jane",Austen,Jane,472.0
+"Arias Ramírez, Fernando",Arias Ramírez,Fernando,473.0
+"Samper Gnecco, Andrés",Samper Gnecco,Andrés,474.0
+"Ariza, Susana de",Ariza,Susana de,475.0
